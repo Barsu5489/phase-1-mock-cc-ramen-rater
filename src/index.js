@@ -62,7 +62,6 @@ function fetchContent(){
         renderImg(data)
     })
 }
-
 document.addEventListener('DOMContentLoaded',()=>{
 fetchContent()
 })
